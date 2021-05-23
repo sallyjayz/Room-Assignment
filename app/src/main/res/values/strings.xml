@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contact List With RoomDatabase</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="hint_name">Name...</string>
+    <string name="hint_number">Phone Number...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="login">LOGIN</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="contacts">Contact(s)</string>
+</resources>
