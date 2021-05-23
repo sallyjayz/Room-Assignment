@@ -1,4 +1,4 @@
-#Room Assigment Zuri Task
+# Room Assigment Zuri Task
 
 ## This assignment would encompass almost all we've learned so far:
 
